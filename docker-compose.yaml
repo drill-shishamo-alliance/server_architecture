@@ -7,3 +7,4 @@ services:
     environment:
       - "POSTGRES_USER=drill"
       - "POSTGRES_PASSWORD=drill"
+      - "POSTGRES_DB=drill"
